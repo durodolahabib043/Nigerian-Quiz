@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+	<question>
+	    <q>What is the name of Nigerian President ?</q>
+		<choice>
+			<item_a>Goodluck Jonathan</item_a>
+			<item_b>Olusegun Obasanjo</item_b>
+			<item_c>Barack Obama</item_c>
+			<item_d>Hillary Clinton</item_d>
+		</choice>
+		<a>1</a>
+	</question>
+	<question>
+	    <q>When did Nigeria gain independences</q>
+		<choice>
+			<item_a>1960</item_a>
+			<item_b>1961</item_b>
+			<item_c>1962</item_c>
+			<item_d>1963</item_d>
+		</choice>
+		<a>1</a>
+	</question>
+	<question>
+		<q>When did Nigeria became a Republic?</q>
+		<choice>
+			<item_a>1961</item_a>
+			<item_b>1962</item_b>
+			<item_c>1963</item_c>
+			<item_d>1964</item_d>
+		</choice>
+		<a>3</a>
+	</question>
+	<question>
+		<q>Where is the Capital of Nigeria?</q>
+		<choice>
+			<item_a>Lagos</item_a>
+			<item_b>Abuja</item_b>
+			<item_c>Kano</item_c>
+			<item_d>Oyo</item_d>
+		</choice>
+		<a>2</a>
+	</question>
+	<question>
+		<q>Which State is referred to as "Confluence State"?</q>
+		<choice>
+			<item_a>Lokoja</item_a>
+			<item_b>Kano</item_b>
+			<item_c>Imo</item_c>
+			<item_d>Owerri</item_d>
+		</choice>
+		<a>1</a>
+	</question>
+	<question>
+		<q>Who was the last Military Administrator of Nigeria?</q>
+		<choice>
+			<item_a>Gen Abacha</item_a>
+			<item_b>Gen Abubakar</item_b>
+			<item_c>Gen Atiku</item_c>
+			<item_d>Gen Babagida</item_d>
+		</choice>
+		<a>2</a>
+	</question>
+	<question>
+		<q>Nigeria has how many states?</q>
+		<choice>
+			<item_a>35</item_a>
+			<item_b>36</item_b>
+			<item_c>37</item_c>
+			<item_d>38</item_d>
+		</choice>
+		<a>2</a>
+	</question>
+	<question>
+		<q>What is the highest currency denomination in Naira?</q>
+		<choice>
+			<item_a>500</item_a>
+			<item_b>1000</item_b>
+			<item_c>2000</item_c>
+			<item_d>5000</item_d>
+		</choice>
+		<a>2</a>
+	</question>
+	<question>
+		<q>Which city is the largest in Nigeria?</q>
+		<choice>
+			<item_a>Ibadan</item_a>
+			<item_b>Lagos</item_b>
+			<item_c>Kano</item_c>
+			<item_d>Kaduna</item_d>
+		</choice>
+		<a>1</a>
+	</question>
+	<question>
+		<q>Who was the winner of 1993 General Election ?</q>
+		<choice>
+			<item_a>Tofa</item_a>
+			<item_b>Mko</item_b>
+			<item_c>Gej</item_c>
+			<item_d>Obj</item_d>
+		</choice>
+		<a>2</a>
+	</question>
+</questions>

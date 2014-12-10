@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Nigerian Quiz</string>
+    <string name="quiz_title_label">Nigerian Quiz</string>
+    <string name="start_button">Start</string>
+    <string name="next_button">Next</string>
+    <string name="done_button">Done</string>
+    <string name="finish_button">Finish</string>
+    <string name="do_again_button">Do again</string>
+    <string name="question_label">Question?</string>
+    <string name="choice_a">A</string>
+    <string name="choice_b">B</string>
+    <string name="choice_c">C</string>
+    <string name="choice_d">D</string>
+
+</resources>
